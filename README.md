@@ -11,12 +11,12 @@
 - Просмотр всех книг.
 
 ## Установка
-1. Склонируйте репозиторий:
+1. Клонируйте репозиторий:
 
 ```bash 
-git clone https://github.com/username/library-manager.git
+git clone https://github.com/Bazalex1/console_library
 ```
 
 ## Использование
 1. Запустите файл `start_library.py`.
-2. Используйте команды по интрукции в консоли.
+2. Используйте команды по инструкции в консоли.
